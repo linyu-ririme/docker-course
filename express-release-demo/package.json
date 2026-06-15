@@ -1,0 +1,13 @@
+{
+  "name": "express-release-demo",
+  "version": "1.0.0",
+  "description": "Express app deployment pipeline demo for Docker course part 3.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

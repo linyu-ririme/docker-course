@@ -1,0 +1,5 @@
+material-applications-main.zip
+material-applications-main-unzipped/
+text.log
+node_modules/
+.env
